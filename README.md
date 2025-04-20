@@ -1,5 +1,5 @@
 
-# Project Title
+# Document2Flashcards
 
 
 This is a streamlit application that creates flashcards from documents using OCR and AI.
